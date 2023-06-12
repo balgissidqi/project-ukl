@@ -1,0 +1,70 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+  }
+  
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+  
+  .medsos {
+    background-color: #FFB433;
+  }
+  
+  .medsos ul li {
+    display: inline-block;
+    color: #fff;
+    margin-right: 10px;
+  }
+  
+  .container {
+    width: 80%;
+    margin: 0 auto;
+  }
+  
+  header h1 {
+    float: left;
+    padding: 15px 0;
+    color: #FFB433;
+  }
+  
+  header ul {
+    float: right;
+  }
+  
+  header ul li {
+    display: inline-block;
+  }
+  
+  header ul li a {
+    padding: 25px 20px;
+    display: inline-block;
+  }
+  
+  header ul li a:hover {
+    background-color: #FFB433;
+    color: #fff;
+  }
+  
+  .active {
+    background-color: #FFB433;
+    color: #fff;
+  }
+  
+  .banner {
+    margin:0;
+    padding: 0;
+    background: url(gmbar.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  
+  footer {
+    padding: 20px 0;
+    background-color: #AF7719;
+  }
+  
